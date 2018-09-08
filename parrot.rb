@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(sound = "Squaek!")
   puts sound
+  sound
 end
